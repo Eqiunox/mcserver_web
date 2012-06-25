@@ -1,0 +1,3 @@
+[submodule "rcon"]
+	path = rcon
+	url = git://github.com/xPaw/PHP-Minecraft-Query.git
