@@ -1,9 +1,8 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
+#python stuff
+.pyc
 
-# Project property files
-.actionScriptProperties
-.flexProperties
-.settings/
-.project
+#php-configs (username and passwords go here
+.php-config
+
+#ini config options with username/passwords (make sure .htacess deny's this)
+upconfig.ini
