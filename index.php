@@ -10,7 +10,7 @@
 <p> Online players:<pre class="onlinelist">
 <?php
 $ops =    file_get_contents("/home/admalledd/minecraft/cur/ops.txt","r");
-echo $ops
+echo $ops;
 require __DIR__ . '/MinecraftQuery.class.php';
 
 $Query = new MinecraftQuery( );
