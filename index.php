@@ -1,6 +1,6 @@
 <html>
 <head>
-<TITLE>admalledd's minecraft server</
+<TITLE>admalledd's minecraft server</TITLE>
 <link rel="stylesheet" type="text/css" href="main.css" />
 
 </head>
