@@ -11,7 +11,7 @@
 <?php
 $ops =    file_get_contents("/home/admalledd/minecraft/cur/ops.txt","r");
 echo $ops;
-require __DIR__ . 'rcon' . '/MinecraftQuery.class.php';
+require __DIR__ . '/rcon' . '/MinecraftQuery.class.php';
 
 $Query = new MinecraftQuery( );
 try
