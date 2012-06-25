@@ -10,7 +10,22 @@
 <p> Online players:<pre class="onlinelist">
 <?php
 $ops =    file_get_contents("/home/admalledd/minecraft/cur/ops.txt","r");
-$players =file_get_contents("/home/admalledd/minecraft/cur/ops.txt","r");
+echo $ops
+require __DIR__ . '/MinecraftQuery.class.php';
+
+$Query = new MinecraftQuery( );
+try
+{
+    $Query->Connect( 'localhost', 27015, 1 );
+    print_r( $Query->GetInfo( ) );
+    print_r( $Query->GetPlayers( ) );
+}
+catch( MinecraftQueryException $e )
+{
+    echo $e->getMessage( );
+}
+
+//$players =file_get_contents("/home/admalledd/minecraft/cur/ops.txt","r");
 
 
 
