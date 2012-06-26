@@ -1,7 +1,7 @@
 #python stuff
 .pyc
 
-#php-configs (username and passwords go here
+#php-configs (username and passwords go here)
 .php-config
 
 #ini config options with username/passwords (make sure .htacess deny's this)
