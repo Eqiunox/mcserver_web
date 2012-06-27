@@ -1,4 +1,11 @@
+RewriteEngine On
+RewriteRule ^(.*/)?\.git.* - [F,L]
+ErrorDocument 403 "Access Forbidden"
+
+
 <FilesMatch "\.(htaccess|htpasswd|ini|log|sh|inc|bak|pyc|php-config)$">
 Order Allow,Deny
 Deny from all
 </FilesMatch>
+
+
