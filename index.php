@@ -41,6 +41,6 @@ catch( MinecraftQueryException $e )
 </pre>
 </p>
 <h4>Plugins</h4>
-<a href="">This is a link to nowhere</a>
+<a href="plugins/help.html">This is a link to nowhere</a>
 </body>
 </html>
