@@ -10,3 +10,39 @@ pre.onlinelist{
 /*note that this will change to be a table or some such in the future*/
 
 }
+
+
+#navbar{
+width: 70%;
+text-align: center;
+margin-top: auto;
+margin-right: auto;
+margin-bottom: auto;
+margin-left: auto;
+}
+#nav1{
+width: 40%;
+margin-top: auto;
+margin-right: auto;
+margin-bottom: auto;
+margin-left: auto;
+float: left;
+}
+
+#nav2{
+width: 20%;
+margin-top: auto;
+margin-right: auto;
+margin-bottom: auto;
+margin-left: auto;
+float: left;
+}
+
+#nav3{
+width: 40%;
+margin-top: auto;
+margin-right: auto;
+margin-bottom: auto;
+margin-left: auto;
+float: right;
+}
