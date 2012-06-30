@@ -1,7 +1,16 @@
 RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\.admalledd\.com$ [NC]
+RewriteCond %{HTTPS} ^off$
+RewriteCond %{REMOTE_ADDR} !^10\.0\.0\.(.*)$
+RewriteRule ^(.*)$ http://www.admalledd.com/$1 [R=301,L]
+RewriteCond %{HTTP_HOST} !^www\.admalledd\.com$ [NC]
+RewriteCond %{HTTPS} ^on$
+RewriteCond %{REMOTE_ADDR} !^10\.0\.0\.(.*)$
+RewriteRule ^(.*)$ https://www.admalledd.com:81/$1 [R=301,L]
+
+
 RewriteRule ^(.*/)?\.git.* - [F,L]
 ErrorDocument 403 "Access Forbidden"
-
 
 <FilesMatch "\.(htaccess|htpasswd|ini|log|sh|inc|bak|pyc|php-config)$">
 Order Allow,Deny
