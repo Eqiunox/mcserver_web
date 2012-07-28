@@ -17,13 +17,13 @@
 
 <div id="navbar">
 <div id="nav1">
-<h2><a href="http://www.admalledd.com/mc/index.php">Minecraft Index</a></h2>
+<h2><a href="/mc/index.php">Minecraft Index</a></h2>
 
 </div>
 
 <div id="nav2">
 
-<h2><a href="http://www.admalledd.com/mc/plugins/help.html">Help</a></h2>
+<h2><a href="/mc/plugins/index.php">Help</a></h2>
 
 </div>
 
@@ -41,31 +41,31 @@
 
 <tr>
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/simplecronclone.html">SimpleCronClone</a></h4>
+<h4><a href="/mc/plugins/simplecronclone.php">SimpleCronClone</a></h4>
 <p>gist about plugin</p>
 <a href="https://github.com/RobertZenz/org.bonsaimind.bukkitplugins/tree/master/SimpleCronClone">Bukkit</a>
 </td>
 
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/multiinv.html">MultiInv</a></h4
+<h4><a href="/mc/plugins/multiinv.php">MultiInv</a></h4
 ><p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/multiinv/">Bukkit</a>
 </td>
 
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/worldedit.html">WorldEdit</a></h4>
+<h4><a href="/mc/plugins/worldedit.php">WorldEdit</a></h4>
 <p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/worldedit/">Bukkit</a>
 <a href="http://wiki.sk89q.com/wiki/WorldEdit">help wiki</a>
 </td>
 
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/commandbook.html">CommandBook</a></h4>
+<h4><a href="/mc/plugins/commandbook.php">CommandBook</a></h4>
 <p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/commandbook/">Bukkit</a>
 </td>
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/portecoulissante.html">PorteCoulissante</a></h4>
+<h4><a href="/mc/plugins/portecoulissante.php">PorteCoulissante</a></h4>
 <p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/portecoulissante/">Bukkit</a>
 </td>
@@ -74,31 +74,31 @@
 <tr>
 
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/multiverse-core.html">Multiverse-Core</a></h4>
+<h4><a href="/mc/plugins/multiverse-core.php">Multiverse-Core</a></h4>
 <p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/multiverse-core/">Bukkit</a>
 </td>
 
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/permissionsex.html">PermissionsEx</a></h4>
+<h4><a href="/mc/plugins/permissionsex.php">PermissionsEx</a></h4>
 <p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/permissionsex/">Bukkit</a>
 </td>
 
 
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/myhome.html">MyHome</a></h4>
+<h4><a href="/mc/plugins/myhome.php">MyHome</a></h4>
 <p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/myhome/">Bukkit</a>
 </td>
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/worldguard.html">WorldGuard</a></h4>
+<h4><a href="/mc/plugins/worldguard.php">WorldGuard</a></h4>
 <p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/worldguard/">Bukkit</a>
 </td>
 
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/mcdocs.html">MCDocs</a></h4>
+<h4><a href="/mc/plugins/mcdocs.php">MCDocs</a></h4>
 <p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/mcdocs/">Bukkit</a>
 </td>
@@ -107,29 +107,29 @@
 <tr>
 
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/retractablebridges.html">RetractableBridges</a></h4>
+<h4><a href="/mc/plugins/retractablebridges.php">RetractableBridges</a></h4>
 <p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/retractablebridge/">Bukkit</a>
 </td>
 
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/bookworm.html">BookWorm</a></h4>
+<h4><a href="/mc/plugins/bookworm.php">BookWorm</a></h4>
 <p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/bookworm/">Bukkit</a>
 </td>
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/mywarp.html">MyWarp</a></h4>
+<h4><a href="/mc/plugins/mywarp.php">MyWarp</a></h4>
 <p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/mywarp/">Bukkit</a>
 </td>
 
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/multiverse-portals.html">Multiverse-Portals</a></h4>
+<h4><a href="/mc/plugins/multiverse-portals.php">Multiverse-Portals</a></h4>
 <p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/multiverse-portals/">Bukkit</a>
 </td>
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/multiverse-netherportals.html">Multiverse-NetherPortals</a></h4>
+<h4><a href="/mc/plugins/multiverse-netherportals.php">Multiverse-NetherPortals</a></h4>
 <p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/multiverse-netherportals/">Bukkit</a>
 </td>
@@ -138,25 +138,25 @@
 <tr>
 <td>
 
-<h4><a href="http://www.admalledd.com/mc/plugins/logblock.html">Logblock</a></h4>
+<h4><a href="/mc/plugins/logblock.php">Logblock</a></h4>
 <p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/logblock/">Bukkit</a>
 </td>
 
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/lwc.html">LWC</a></h4>
+<h4><a href="/mc/plugins/lwc.php">LWC</a></h4>
 <p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/lwc/">Bukkit</a>
 </td>
 
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/nolagg.html">NoLagg</a></h4>
+<h4><a href="/mc/plugins/nolagg.php">NoLagg</a></h4>
 <p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/nolagg/">Bukkit</a>
 </td>
 
 <td>
-<h4><a href="http://www.admalledd.com/mc/plugins/otherdrops.html">OtherDrops</a></h4>
+<h4><a href="/mc/plugins/otherdrops.php">OtherDrops</a></h4>
 <p>gist about plugin</p>
 <a href="http://dev.bukkit.org/server-mods/otherdrops/">Bukkit</a>
 </td>
