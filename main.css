@@ -11,7 +11,13 @@ pre.onlinelist{
 
 }
 
+/*navbar note:
+nav1 is left
+nav2 is center
+nav3 is right
 
+for now we skip nav2 until we get something to link for it (forum? wiki? blog?)
+*/
 #navbar{
 width: 70%;
 text-align: center;

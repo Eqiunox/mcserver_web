@@ -49,8 +49,9 @@ catch( MinecraftQueryException $e )
 <?php print_r( $players );/*print players here and now, I know i could have done it sooner, but meh*/ ?>
 </pre>
 </p>
-<h4>Plugins</h4>
-<a href="plugins/index.php">plugin index and help page</a>
+<h2>Plugins</h2>
+<h3><a href="plugins/index.php">plugin index and help page</a></h3>
+
 <?php include("plindex.php"); /*plugin index table*/?>
 
 
