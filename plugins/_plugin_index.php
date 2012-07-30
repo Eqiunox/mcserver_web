@@ -21,10 +21,10 @@ function _plugin_index_header($plname)
     echo "<h1>Welcome!</h1>";
     echo "<div id='navbar'>";
     echo "<div id='nav1'>";
-    echo "<h2><a href='/index.php'>Home</a></h2>";
+    echo "<h2><a href='/mc/index.php'>Home</a></h2>";
     echo "</div>";
     echo "<div id='nav3'>";
-    echo "<h2><a href='/mc/plugins/'>Help</a></h2>";
+    echo "<h2><a href='/mc/plugins/'>Plugin Index</a></h2>";
     echo "</div>";
     echo "</div>";
 
