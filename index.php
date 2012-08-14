@@ -10,6 +10,7 @@
 <p>Please Do not update to 1.3 until you see the server respoding with "Admalledd's server v1.3" meaning that the server is
 up to date. If you update to 1.3 before this you will be unable to play as the server software (craftbukkit) takes time to
 update after a minecraft release.</p>
+<p>Email admalledd at admalledd+mc@gmail.com if you have any questions or comments concerning the server.</p>
 
 <h2>Server rules</h2>
 <ul>
@@ -74,7 +75,7 @@ catch( MinecraftQueryException $e )
 
 <h3><a href="http://redd.it/vcjzf">Villager Spawning</a></h3>
 
-<p>Donate now and you could get an array of rewards including a cool new name prefix that will make everyone jealous and many more. Just email admalledd at admalledd+mc@gmail.com if you have any questions or press the button below and donate now.</p>
+<p>Donate now and you could get an array of rewards that will make everyone jealous and many more. Just email admalledd at admalledd+mc@gmail.com if you have any questions or press the button below and donate now.</p>
 
 <?php include("/var/www/donate.htm");?>
 
